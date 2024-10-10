@@ -648,8 +648,7 @@
     {
       "scope": ["markup.heading", "meta.definition variable.other.constant"],
       "settings": {
-        "foreground": "#c77dbb",
-        "fontStyle": "italic"
+        "foreground": "#BCBEC4",
       }
     },
     {
